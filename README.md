@@ -2,7 +2,7 @@
 *The information below is not part of the submission but is encouraged to provide*
 
  ## Team Members
-- Name, Email, @GitHub account
+- Hongjian Zhu, hongjianz1@student.unimelb.edu.au, @Ghostflamez
 - Name, Email, @GitHub account
 - Name, Email, @GitHub account
 

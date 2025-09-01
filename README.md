@@ -4,6 +4,7 @@
  ## Team Members
 - Hongjian Zhu, hongjianz1@student.unimelb.edu.au, @Ghostflamez
 - Frank Xia, feifanx@student.unimelb.edu.au, @Faragafan
+- Duc Phu Trieu, ducphu@student.unimelb.edu.au @PeterT1665
 - Name, Email, @GitHub account
 
  ## Documentation files
